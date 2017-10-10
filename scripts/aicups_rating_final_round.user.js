@@ -87,7 +87,7 @@
 		}
 
 		function load_ratings() {
-			$.get('http://aicups.ru/rating/', function (html) {
+			$.get('http://aicups.ru/rating/#2', function (html) {
 				var parser = new DOMParser();
 				var doc = parser.parseFromString(html, "text/html");
 				processPage($(doc.body));
