@@ -12,6 +12,8 @@
 Для тех, кто хочет интриги. Делает так:
 
 ![AICups rating](https://github.com/arybalka/raic_aicups_misc/blob/master/assets/raic_hide_games.png)
+При клике результат отображается. 
+Вне раундов можно отключать в списке скриптов Tampermonkey (или того, что вы используете вместо него)
 
 Лежит тут:
 [GitHub](https://github.com/arybalka/raic_aicups_misc/blob/master/scripts/hide_played_games.js)
