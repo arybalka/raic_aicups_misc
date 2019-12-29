@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  Fetch places and ratings for users
 // @author       Andrey Rybalka (lama)
-// @match        http://aicups.ru/*
+// @match        https://aicups.ru/*
 // @grant        none
 // ==/UserScript==
 
